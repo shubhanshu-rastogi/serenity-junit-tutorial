@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="starter.wikipedia.WhenSearchingForTerms" skipped="0" tests="1" time="18.31" timestamp="2022-09-03 10:41:32"><testcase classname="starter.wikipedia.WhenSearchingForTerms" name="Search by single keyword"/></testsuite>
